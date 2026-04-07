@@ -1,0 +1,22 @@
+---
+terms:
+  earlyenroll: "'2206'"
+  current: "'2201'"
+  previous: "'2199'"
+  next: "'2206'"
+  upcoming: "('2201', '2206')"
+  terms: "('2199', '2201', '2206')"
+  blueprint: "'2199'"
+
+# The varbl1 varible will use the keyword "current" to replace 
+# the "current" string with the current term that is listed above
+# current = "'2201'"
+
+org_example_table:
+  cstable: ""
+  mvtable: "" 
+  dctable: ""
+  varbl1: "current"
+  sql: ""
+  toggle: "on" 
+...

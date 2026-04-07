@@ -1,0 +1,30 @@
+---
+#sql loader user info
+userid: ""
+passw: ""
+
+#odldata oracle user info
+odldata_userid: ""
+odldata_passw: ""
+odldata_url: ""
+
+#odl_usr oracle user info
+odlusr_user: ""
+odlusr_pw: ""
+odlusr_url: ""
+
+#dbprod oracle user info
+dbprod_userid: ""
+dbprod_passw: ""
+dbprod_url: ""
+
+#dbtest oracle user info
+dbtest_user: ""
+dbtest_pw: ""
+dbtest_url: ""
+
+#QNA oracle user info
+qna_user: ""
+qna_pw: ""
+qna_url: ""
+...

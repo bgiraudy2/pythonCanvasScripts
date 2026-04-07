@@ -1,0 +1,11 @@
+# all user, passwords, and urls have been removed for security reasons.
+---
+userid: ""
+passw: "" 
+url: ""
+
+# user info for status tables (removed for security reasons)
+odldata_userid: ""
+odldata_passw: ""
+odldata_url: ""
+...

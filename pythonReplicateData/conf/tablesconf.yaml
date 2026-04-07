@@ -1,0 +1,27 @@
+---
+local:
+  run: "on"
+
+terms:
+  earlyenroll: "'2206'"
+  current: "'2206'"
+  previous: "'2201'"
+  next: "'2209'"
+  upcoming: "('2206', '2209')"
+  terms: "('2201', '2206', '2209')"
+  blueprint: "'2206'"
+
+## cstable = cs table
+## mvtable = materialized view
+## dctable = datacache table
+
+# for security reasons, the tablenames and query have been anonymized
+
+tmp_example_table:
+  cstable: "tmp_example_table"
+  mvtable: "fsuvs_example_table"
+  dctable: "odl_example_table"
+  varbl1: ""
+  sql: "SELECT COLUMN1, COLUMN2, COLUMN3 FROM odl_example_table "
+  toggle: "on"
+...

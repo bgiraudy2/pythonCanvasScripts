@@ -1,0 +1,30 @@
+---
+# tables to be loaded via script argument 
+# the tables have been anonymized for security reasons
+# depending on which argument you used when starting the script, 
+# the script will download the data for each table one at a time 
+# until it is downloaded and loaded into the table
+
+all:
+  - tmp_example_table
+  - tmp_example_table2
+  - tmp_example_table3
+  - tmp_example_table4
+  - tmp_example_table5
+  - tmp_example_table6
+  - tmp_example_table7
+  - tmp_example_table8
+  - tmp_example_table9
+hourly:
+  - tmp_example_table
+  - tmp_example_table2
+daily:
+  - tmp_example_table3
+weekly:
+  - tmp_example_table2
+  - tmp_example_table3
+grades:
+  - tmp_example_table2
+qna:
+  - tmp_example_table4
+... 

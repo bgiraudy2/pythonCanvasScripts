@@ -1,0 +1,23 @@
+---
+#tablesconf.yaml
+local:
+  run: "on"
+
+terms: ['sp20', 'su20', 'fa20']
+
+tmp_example_table:
+  cstable: "tmp_example_table"
+  mvtable: "canvas_example_table"
+  dctable: ""
+  varbl1: ""
+  sql: ""
+  toggle: "on"
+
+tmp_example_table2:
+  cstable: "tmp_example_table2"
+  mvtable: "canvas_example_table2"
+  dctable: ""
+  varbl1: ""
+  sql: ""
+  toggle: "on"
+...

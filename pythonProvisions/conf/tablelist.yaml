@@ -1,0 +1,12 @@
+---
+all:
+  - tmp_example_table
+  - tmp_example_table2
+  - tmp_example_table3
+  - tmp_example_table4
+  - tmp_example_table5
+  - tmp_example_table6
+  - tmp_example_table7
+  - tmp_example_table8
+  - tmp_example_table9
+...

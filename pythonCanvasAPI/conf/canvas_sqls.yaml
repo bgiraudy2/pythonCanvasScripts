@@ -1,0 +1,22 @@
+---
+terms:
+  earlyenroll: "'2209'"
+  current: "'2206'"
+  previous: "'2201'"
+  next: "'2209'"
+  upcoming: "('2206', '2209')"
+  terms: "('2201', '2206', '2209')"
+  blueprint: "'2199'"
+
+# The varbl1 varible will use the keyword "upcoming" to replace 
+# the "upcoming" string with the upcoming term that is listed above
+# upcoming = "('2206', '2209')"
+
+canvas_example_table:
+  cstable: ""
+  mvtable: ""
+  dctable: ""
+  varbl1: "upcoming"
+  sql: ""
+  toggle: "on"
+...
