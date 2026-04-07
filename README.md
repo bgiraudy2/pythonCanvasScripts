@@ -1,5 +1,7 @@
 This is a project that I worked on while at Florida State University. This project downloaded data from Canvas and databases and loaded them into tables and Canvas. 
 
+4/7/2026 update: I no longer have access to https://github.com/bgiraudy/pythonCanvasScripts since my original user name uses an email address I no longer have access to, this project and any further changes (if any) will exist in this repo.
+
 # pythonReplicateData
 
 ## downloadtables.py
